@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm the Founder of SkorKarir!
 
-<!--
-**myahyasa/myahyasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building **SkorKarir** — an AI-powered career platform
+helping job seekers in Indonesia improve their CV and get closer
+to their next opportunity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm building
+
+### SkorKarir
+
+**AI Resume Optimizer & ATS Checker**
+
+Upload your CV and let AI help you understand:
+
+- 📊 How strong is your CV?
+- 🤖 Is it ATS-friendly?
+- 🔍 What's missing?
+- 🎯 What should you improve?
+- 💼 How can you make your CV stronger?
+
+### The idea is simple:
+
+**Upload CV → AI Review → Fix → Apply**
+
+🌐 **https://skorkarir.web.id/**
+
+---
+
+## 🎯 Why SkorKarir?
+
+A lot of people are qualified for a job,
+but their CV doesn't communicate it well.
+
+SkorKarir helps bridge that gap.
+
+**Better CV. Better chances. Better career.**
+
+---
+
+## 🧠 Building at the intersection of
+
+AI • Career Tech • SaaS • Automation
+
+---
+
+## 🇮🇩 Built for Indonesia
+
+SkorKarir is built with Indonesian job seekers in mind,
+from fresh graduates to experienced professionals.
+
+---
+
+### 🚧 Currently building
+
+**SkorKarir**
+
+> Naik Level Karier Anda.
+
+🌐 https://skorkarir.web.id/
