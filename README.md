@@ -65,6 +65,16 @@ Designed around how Indonesian job seekers actually apply for jobs — from fres
 
 ---
 
+## 🛠️ I Code With
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,fastapi,php,tailwind,html,css,vite,express,graphql,mysql,postgres,redis,docker,nginx,aws,gcp,vercel,githubactions,cloudflare,linux,git,github,vscode,postman,figma,notion)](https://skillicons.dev)
+
+</div>
+
+---
+
 ## 🚧 Currently Building
 
 **SkorKarir** — *Naik Level Karier Anda.*
@@ -74,5 +84,3 @@ Designed around how Indonesian job seekers actually apply for jobs — from fres
 [![Try SkorKarir](https://img.shields.io/badge/Try_SkorKarir_Now-→-2563EB?style=for-the-badge)](https://skorkarir.web.id/)
 
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,docker,mysql,git,linux,github)](https://skillicons.dev)
