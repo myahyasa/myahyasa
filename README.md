@@ -74,3 +74,5 @@ Designed around how Indonesian job seekers actually apply for jobs — from fres
 [![Try SkorKarir](https://img.shields.io/badge/Try_SkorKarir_Now-→-2563EB?style=for-the-badge)](https://skorkarir.web.id/)
 
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,docker,mysql,git,linux,github)](https://skillicons.dev)
